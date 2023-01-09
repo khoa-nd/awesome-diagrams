@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-01-09T12:06:28.624Z" agent="5.0 (Macintosh)" etag="TEfTbVarQOIU3FNAOr60" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-09T13:33:29.681Z" agent="5.0 (Macintosh)" etag="n33GJXqj8tQ0VO0090kT" version="20.5.1" type="github">
   <diagram id="CWG6g-ZDZDLjgkVgSMIW" name="Page-1">
-    <mxGraphModel dx="1861" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
+    <mxGraphModel dx="1114" dy="637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="4681" pageHeight="3300" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -97,6 +97,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IwGxQNIVYgix1IoKI3rt-83" value="www.ncs.co/en-sg" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="IwGxQNIVYgix1IoKI3rt-42">
+          <mxGeometry x="0.8834" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IwGxQNIVYgix1IoKI3rt-43" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwGxQNIVYgix1IoKI3rt-11" target="IwGxQNIVYgix1IoKI3rt-37">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="411" as="sourcePoint" />
@@ -105,6 +110,11 @@
               <mxPoint x="1080" y="520" />
               <mxPoint x="660" y="530" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwGxQNIVYgix1IoKI3rt-87" value="www.ncs.com.cn/zh-cn" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="IwGxQNIVYgix1IoKI3rt-43">
+          <mxGeometry x="0.8882" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IwGxQNIVYgix1IoKI3rt-45" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IwGxQNIVYgix1IoKI3rt-11" target="IwGxQNIVYgix1IoKI3rt-27">
@@ -117,6 +127,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="IwGxQNIVYgix1IoKI3rt-85" value="www.ncs.co/en-au" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="IwGxQNIVYgix1IoKI3rt-45">
+          <mxGeometry x="0.7805" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="IwGxQNIVYgix1IoKI3rt-46" value="" style="endArrow=classic;html=1;rounded=0;edgeStyle=elbowEdgeStyle;elbow=vertical;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.463;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="IwGxQNIVYgix1IoKI3rt-11" target="IwGxQNIVYgix1IoKI3rt-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="790" y="411" as="sourcePoint" />
@@ -126,6 +141,11 @@
               <mxPoint x="840" y="520" />
               <mxPoint x="670" y="540" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IwGxQNIVYgix1IoKI3rt-86" value="www.ncs.co/en-in" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontStyle=1" vertex="1" connectable="0" parent="IwGxQNIVYgix1IoKI3rt-46">
+          <mxGeometry x="0.8253" y="1" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="IwGxQNIVYgix1IoKI3rt-47" value="&lt;div align=&quot;left&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#CCCCCC;glass=0;sketch=1;" vertex="1" parent="1">
@@ -169,6 +189,9 @@
         </mxCell>
         <mxCell id="IwGxQNIVYgix1IoKI3rt-56" value="&lt;div&gt;Backup Instance&lt;br&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="IwGxQNIVYgix1IoKI3rt-53">
           <mxGeometry x="20.625" y="70.58823529411765" width="68.75" height="17.647058823529413" as="geometry" />
+        </mxCell>
+        <mxCell id="IwGxQNIVYgix1IoKI3rt-88" value="&lt;div align=&quot;left&quot;&gt;Multisite mappings&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;- /en-sg : www.ncs.co/en-sg&lt;br&gt;&lt;/div&gt;&lt;div&gt;- /en-au : www.ncs.co/en-au&lt;/div&gt;&lt;div&gt;- /en-in : www.ncs.co/en-in&lt;/div&gt;&lt;div&gt;- /zh-cn : www.ncs.com.cn/zh-cn&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=default;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;glass=0;sketch=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="840" y="390" width="210" height="75" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
